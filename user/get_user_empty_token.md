@@ -1,6 +1,6 @@
 # Get user by id without token should be response 401
 
-This can be run with `cotton -u https://localhost:8000/api/v1/users get_user.md`
+This can be run with `cotton -u http://hosp.odds.team:6969/api/v1/users get_user_empty_tokeng.md`
 
 ## GET /api/v1/users/1
 
