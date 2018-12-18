@@ -1,6 +1,6 @@
 # Get user by ID with invalid token
 
-## GET /api/users/1
+## GET /api/v1/users/1
 
 | Header | Value |
 | - | - |

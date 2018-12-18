@@ -3,7 +3,7 @@
 ## Preconditions
 * [Login With Valid Credential](../common/login.md)
 
-## GET /api/users/1
+## GET /api/v1/users/1
 
 | Header | Value |
 | - | - |
@@ -17,8 +17,8 @@ Should be return data of user id 1
 | - | - |
 | StatusCode | 200 |
 | data.id | 1 |
-| data.firstName | FOO |
-| data.lastName | Bar |
+| data.firstName | User01 |
+| data.lastName | Lastname |
 
 
 
